@@ -10,4 +10,3 @@ Project provides many functionalitites for 2 different interfaces including:
 
 ![Admin](https://user-images.githubusercontent.com/108095594/175529497-35c77002-e913-4f55-bd55-0fb8d9b5069f.png)
 ![salesman](https://user-images.githubusercontent.com/108095594/175529511-607f187c-2926-48f6-abce-432d3a0f9276.png)
- Interface
