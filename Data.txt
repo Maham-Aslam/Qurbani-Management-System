@@ -1,0 +1,9 @@
+Qurbani Management System
+1
+256,Irfan Majeed
+5
+1801,Muhammad Akram
+1802,Umar Nadeem
+1803,Zainab Irfan
+1804,Hassan Afzal
+1805,Ayesha Farooq
